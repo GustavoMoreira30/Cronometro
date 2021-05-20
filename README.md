@@ -1,2 +1,2 @@
-# CronometroJavaScript
+# Cronometro
 Cronômetro 
